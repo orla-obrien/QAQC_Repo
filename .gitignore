@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+raw_data/
+!raw_data/.gitkeep
+output/
+!output/.gitkeep
